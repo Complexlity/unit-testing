@@ -1,0 +1,1 @@
+Practicing Test Driving Development by creating unit tests before writing the code. Done using Jest
